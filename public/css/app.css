@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body,
+html {
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #050f3f;
+}
+
+input:focus {
+    outline: none;
+}
+
+form input:focus {
+    outline: none;
+    border: 2px solid #ff0093;
+}
+
+.text-gradient-orange {
+    background: linear-gradient(90deg, #fd4680, #fea75c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-blue {
+    background: linear-gradient(94.77deg, #1db8ba 8.95%, #28f0c0 19.61%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.gradient {
+    background: linear-gradient(90deg, #fd4680, #fea75c);
+}
+
+.darken {
+    box-shadow: 0 0 9.3578px rgba(0, 0, 0, 0.1);
+}
+
+#slider {
+    position: relative;
+    white-space: nowrap;
+}
+
+#slider span {
+    transition: 0.3s;
+}
+
+#overlay {
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: 1s;
+}
+
+#leftnav {
+    width: 25vw;
+    height: 100%;
+    transition: 1s;
+    left: -25vw;
+}
