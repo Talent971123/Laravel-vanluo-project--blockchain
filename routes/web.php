@@ -108,3 +108,4 @@ Route::get('/market', function () {
 
     return view('market')->with(compact('artists'));
 });
+
