@@ -45,6 +45,20 @@
                 as
                 dividends for holding their stock.
             </p>
+            <h1 class="text-5xl font-bold">
+                Music Artist <span class="text-gradient-orange">Financial Stock</span>
+                <br />
+                Market
+            </h1>
+            <p class="font-light text-[#050f3f]">Linked to a new global music industry & economy powered by
+                decentralised
+                finance.
+                Purchase NFT digital
+                asset stocks in any Upcoming, Independent & Major Artist brand & receive a portion of their
+                revenue
+                as
+                dividends for holding their stock.
+            </p>
             <div class="flex gap-5">
                 <button class="py-4 px-6 rounded text-white font-bold gradient">GET EARLY ACCESS</button>
                 <a href="https://drive.google.com/file/d/1ul1z217vLUFmPQWKF5X8TYnSULl1TPpW/view" target="_blank" class="flex items-center gap-5 py-1 px-6">
