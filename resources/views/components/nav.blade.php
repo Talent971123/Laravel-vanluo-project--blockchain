@@ -13,6 +13,14 @@
             <a href="/market">Market</a>
             <a href="/">Home</a>
         </div>
+        <div id="leftnav" class="fixed z-10 left-0 top-0 flex flex-col gap-5 p-5 text-lg bg-white shadow-xl">
+            <img class="w-[200px] h-[50px]" src="https://valyou-x.vercel.app/assets/logo_black.svg" />
+            <a href="/pricing">Token Presale</a>
+            <a href="/login">Login / Signup</a>
+            <a href="/">Home</a>
+            <a href="/market">Market</a>
+            <a href="/">Home</a>
+        </div>
     </div>
 
     <script src="{{ URL::asset('js/leftnav.js') }}"></script>
