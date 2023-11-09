@@ -18,7 +18,7 @@
             <a href="/pricing">Token Presale</a>
             <a href="/login">Login / Signup</a>
             <a href="/">Home</a>
-            <a href="/market">Market</a>
+            <a href="/market">Marke</a>
             <a href="/">Home</a>
         </div>
     </div>
